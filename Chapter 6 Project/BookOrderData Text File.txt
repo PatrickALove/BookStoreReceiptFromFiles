@@ -1,0 +1,6 @@
+1234 Once_Upon_A_Time New_Author 1234323456787 25.00 4 N M
+2345 Midnight_Moon Margaret_Brown 3456789765432 50.00 10 F D
+3456 A_Wrinkle_In_Time Madeline_Engle 2535483215987 60.00 4 N M
+4567 Harry_Potter J_K_Rowling 0002569854712 100.00 100 F D
+5678 Charlottes_Web E_B_White 036250125478 25.00 12 F M
+6789 The_Snowy_Day Ezra_Keats 00025523148 50.00 5 N R

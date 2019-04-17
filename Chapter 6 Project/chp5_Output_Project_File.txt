@@ -1,0 +1,74 @@
+Invoice
+Customer ID: 1234
+
+Once_Upon_A_Time	Nonfiction	Mystery	4@25.00	100.00
+
+Total Book Sales: 100.00
+Tax:               7.00
+SubTotal:        107.00
+Fees:             10.00
+Total:           117.00
+----------------------------------------------------------------------------------
+
+Invoice
+Customer ID: 2345
+
+Midnight_Moon	Fiction	Drama	10@50.00	500.00
+
+Total Book Sales: 500.00
+Tax:              35.00
+SubTotal:        535.00
+Fees:             30.00
+Total:           565.00
+----------------------------------------------------------------------------------
+
+Invoice
+Customer ID: 3456
+
+A_Wrinkle_In_Time	Nonfiction	Mystery	4@60.00	240.00
+
+Total Book Sales: 240.00
+Tax:              16.80
+SubTotal:        256.80
+Fees:             10.00
+Total:           266.80
+----------------------------------------------------------------------------------
+
+Invoice
+Customer ID: 4567
+
+Harry_Potter	Fiction	Drama	100@100.00	10000.00
+
+Total Book Sales: 10000.00
+Tax:             700.00
+SubTotal:      10700.00
+Fees:             10.00
+Total:         10710.00
+----------------------------------------------------------------------------------
+
+Invoice
+Customer ID: 5678
+
+Charlottes_Web	Fiction	Mystery	12@25.00	300.00
+
+Total Book Sales: 300.00
+Tax:              21.00
+SubTotal:        321.00
+Fees:             30.00
+Total:           351.00
+----------------------------------------------------------------------------------
+
+Invoice
+Customer ID: 6789
+
+The_Snowy_Day	Nonfiction	Romance	5@50.00	250.00
+
+Total Book Sales: 250.00
+Tax:              17.50
+SubTotal:        267.50
+Fees:              0.00
+Total:           267.50
+----------------------------------------------------------------------------------
+
+Total Book Sales:                11390.00
+Average Books Sale:                 84.37
